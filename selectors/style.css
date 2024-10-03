@@ -1,0 +1,14 @@
+h1,h2{
+    background-color: red;
+    font-style: italic;
+    padding-left: 10px;
+}
+.rake{
+    background-color: blueviolet;
+}
+.althu{
+    background-color: brown;
+}
+#abc{
+    background-color: aquamarine;
+}
